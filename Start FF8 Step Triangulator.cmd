@@ -1,0 +1,1 @@
+start "" AutoHotkey64.exe FF8StepTriangulator.ahk
