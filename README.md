@@ -4,7 +4,7 @@ Imageput by Edison Hua (iseahound): https://github.com/iseahound/ImagePut
 
 Deling Final Fantasy VIII field archive editor: https://github.com/myst6re/deling/
 
-Feel free to alter and share my FF8StepTriangulator.ahk script freely.  -Gensoul
+Inspired by the amazing modding work being done by the Tsunamods teams: https://www.tsunamods.com/
 
 Run "Start FF8 Step Triangulator.cmd" to start!
 
