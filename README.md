@@ -1,4 +1,5 @@
 This script was written for Autohotkey v2. See https://autohotkey.com/v2/
+
 Feel free to alter and share this script freely.  -Gensoul
 
 Run "Start FF8 Step Triangulator.cmd" to start!
