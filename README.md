@@ -1,4 +1,4 @@
-This is an Autohotkey script designed to assist with modding work, locating field triangles & help speed up sthe cripting work adding dynamic footstep to FF8.
+This is an Autohotkey script designed to assist with modding work, locating field triangles & help speed up the scripting work adding dynamic footstep to FF8.
 
 This script was written for Autohotkey v2. See https://autohotkey.com/v2/
 
@@ -23,7 +23,7 @@ Triangle Steps text creator:
 Deling triangle locator:
 
 While running, FF8 Step Triangulator adds a hotkey for Deling. 
-Ctrl+Click on a walkmesth triangle will try to locate the triangle number using a brute-force color match search in that area.
+Ctrl+Click on a walkmesth triangle. Script will  try to locate the triangle number using a brute-force color match search in that area.
 
 1. Start Deling (tested with v0.12.0) and open the FF8 "field.fs" file located in the directory "\Data\lang-en".
 2. Select the Walkmesh tab at the top of Deling. 
