@@ -1,4 +1,6 @@
 This script was written for Autohotkey v2. See https://autohotkey.com/v2/
+Imageput by Edison Hua (iseahound): https://github.com/iseahound/ImagePut
+Deling Final Fantasy VIII field archive editor: https://github.com/myst6re/deling/
 
 Feel free to alter and share this script freely.  -Gensoul
 
