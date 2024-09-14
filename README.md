@@ -1,3 +1,5 @@
+This is an Autohotkey script designed to assist with modding work, locating field triangles & help speed up sthe cripting work adding dynamic footstep to FF8.
+
 This script was written for Autohotkey v2. See https://autohotkey.com/v2/
 
 Imageput by Edison Hua (iseahound): https://github.com/iseahound/ImagePut
